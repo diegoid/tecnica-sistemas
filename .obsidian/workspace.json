@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tecnica/readme.md.md",
+                "file": "Tecnica/readme.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "readme.md"
+              "title": "readme"
             }
           }
         ]
@@ -183,10 +183,10 @@
       "bases:Create new base": false
     }
   },
-  "active": "e2dc0d33c1911c9f",
+  "active": "7200a303359c5036",
   "lastOpenFiles": [
     "Tecnica/Diseño Sistemas/Git y GitHub/Introduccion.md",
-    "Tecnica/readme.md.md",
+    "Tecnica/readme.md",
     "Tecnica/Diseño Sistemas/Git y GitHub/Volviendo Cosas Para Atrás.md",
     "Tecnica.md",
     "Tecnica/Diseño Sistemas/Git y GitHub/Crear un Repositorio y Guardar Trabajos.md",
