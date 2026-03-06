@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Tecnica/Diseño Sistemas/Git y GitHub/2. Instalación de Git.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "2. Instalación de Git"
             }
           }
         ]
@@ -183,15 +183,15 @@
       "bases:Create new base": false
     }
   },
-  "active": "e2dc0d33c1911c9f",
+  "active": "7200a303359c5036",
   "lastOpenFiles": [
-    "Tecnica/readme.md",
     "README.md",
-    "Tecnica/Diseño Sistemas/Git y GitHub/Introduccion.md",
-    "Tecnica/Diseño Sistemas/Git y GitHub/Volviendo Cosas Para Atrás.md",
+    "Tecnica/readme.md",
+    "Tecnica/Diseño Sistemas/Git y GitHub/1. Introduccion.md",
+    "Tecnica/Diseño Sistemas/Git y GitHub/4. Volviendo Cosas Para Atrás.md",
     "Tecnica.md",
-    "Tecnica/Diseño Sistemas/Git y GitHub/Crear un Repositorio y Guardar Trabajos.md",
-    "Tecnica/Diseño Sistemas/Git y GitHub/Instalación de Git.md",
+    "Tecnica/Diseño Sistemas/Git y GitHub/3. Crear un Repositorio y Guardar Trabajos.md",
+    "Tecnica/Diseño Sistemas/Git y GitHub/2. Instalación de Git.md",
     "Untitled.md",
     "Tecnica/Diseño Sistemas/Git y GitHub/Resumen Mapa.canvas",
     "Tecnica/Diseño Sistemas/Git y GitHub/Pindonga.md"
