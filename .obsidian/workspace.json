@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tecnica/Diseño Sistemas/Git y GitHub/Volviendo Cosas Para Atrás.md",
+                "file": "Tecnica/readme.md.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Volviendo Cosas Para Atrás"
+              "title": "readme.md"
             }
           }
         ]
@@ -183,13 +183,14 @@
       "bases:Create new base": false
     }
   },
-  "active": "7200a303359c5036",
+  "active": "e2dc0d33c1911c9f",
   "lastOpenFiles": [
+    "Tecnica/Diseño Sistemas/Git y GitHub/Introduccion.md",
+    "Tecnica/readme.md.md",
+    "Tecnica/Diseño Sistemas/Git y GitHub/Volviendo Cosas Para Atrás.md",
     "Tecnica.md",
     "Tecnica/Diseño Sistemas/Git y GitHub/Crear un Repositorio y Guardar Trabajos.md",
     "Tecnica/Diseño Sistemas/Git y GitHub/Instalación de Git.md",
-    "Tecnica/Diseño Sistemas/Git y GitHub/Introduccion.md",
-    "Tecnica/Diseño Sistemas/Git y GitHub/Volviendo Cosas Para Atrás.md",
     "Untitled.md",
     "Tecnica/Diseño Sistemas/Git y GitHub/Resumen Mapa.canvas",
     "Tecnica/Diseño Sistemas/Git y GitHub/Pindonga.md"
